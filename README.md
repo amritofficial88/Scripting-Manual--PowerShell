@@ -124,6 +124,5 @@ PowerShell is a powerful scripting language and command-line shell designed for 
   Install-Module -Name Az -Scope CurrentUser
   ```
 
-## Conclusion
 PowerShell provides robust automation capabilities, simplifying administrative tasks for Windows and cloud environments like AWS and Azure.
 
